@@ -9,3 +9,4 @@ nu() {
     done
 }
 
+nu
